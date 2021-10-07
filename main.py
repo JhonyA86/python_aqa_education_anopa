@@ -1,1 +1,0 @@
-print("NIX AQA Python")
