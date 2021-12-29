@@ -1,0 +1,99 @@
+2021-12-28 14:54:44 INFO Start function
+2021-12-28 14:54:44 INFO Time of function running 0.6592075824737549 seconds
+2021-12-28 17:00:32 INFO Start function
+2021-12-28 17:00:33 INFO Time of function running 0.6432428359985352 seconds
+2021-12-28 22:53:17 INFO Start function
+2021-12-28 22:53:17 ERROR Incorrect input value, please enter only digits
+2021-12-28 22:53:17 INFO Time of function running 0.0 seconds
+2021-12-28 22:53:45 INFO Start function
+2021-12-28 22:53:45 ERROR Negative number, please enter correct
+2021-12-28 22:53:45 INFO Time of function running 0.0010464191436767578 seconds
+2021-12-28 23:13:49 INFO Start function
+2021-12-28 23:13:49 INFO Time of function running 0.6488492488861084 seconds
+2021-12-28 23:16:53 INFO Start function
+2021-12-28 23:16:53 ERROR Negative number, please enter correct
+2021-12-28 23:16:53 INFO Time of function running 0.0 seconds
+2021-12-28 23:19:01 INFO Start function
+2021-12-28 23:19:01 ERROR Negative number, please enter correct
+2021-12-28 23:19:01 INFO Time of function running 0.0 seconds
+2021-12-28 23:24:45 INFO Start function
+2021-12-28 23:24:45 INFO Time of function running 0.6865231990814209 seconds
+2021-12-28 23:28:00 INFO Start function
+2021-12-28 23:28:01 INFO Time of function running 0.6702499389648438 seconds
+2021-12-28 23:31:03 INFO Start function
+2021-12-28 23:31:03 INFO Time of function running 0.6513004302978516 seconds
+2021-12-28 23:31:39 INFO Start function
+2021-12-28 23:31:40 INFO Time of function running 0.6994175910949707 seconds
+2021-12-28 23:33:54 INFO (8, <class 'int'>)
+2021-12-28 23:33:54 INFO (9, <class 'int'>)
+2021-12-28 23:33:54 INFO (4, <class 'int'>)
+2021-12-28 23:33:54 INFO Start function
+2021-12-28 23:33:54 INFO Time of function running 0.6638131141662598 seconds
+2021-12-28 23:35:21 INFO 8, <class 'int'>)
+2021-12-28 23:35:21 INFO 9, <class 'int'>)
+2021-12-28 23:35:21 INFO 4, <class 'int'>)
+2021-12-28 23:35:21 INFO Start function
+2021-12-28 23:35:21 INFO Time of function running 0.6392889022827148 seconds
+2021-12-28 23:37:21 INFO  Argument 8,type <class 'int'>)
+2021-12-28 23:37:21 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:37:21 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:37:21 INFO Start function
+2021-12-28 23:37:22 INFO Time of function running 0.6482641696929932 seconds
+2021-12-28 23:38:40 INFO  Argument 8,type <class 'int'>)
+2021-12-28 23:38:40 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:38:40 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:38:40 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:38:40 INFO  Argument more, iteration, <class 'str'>
+2021-12-28 23:38:40 INFO Start function
+2021-12-28 23:38:41 INFO Time of function running 0.6582396030426025 seconds
+2021-12-28 23:39:26 INFO  Argument -8,type <class 'int'>)
+2021-12-28 23:39:26 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:39:26 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:39:26 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:39:26 INFO  Argument more, iteration, <class 'str'>
+2021-12-28 23:39:26 INFO Start function
+2021-12-28 23:39:26 ERROR Negative number, please enter correct
+2021-12-28 23:39:26 INFO Time of function running 0.0 seconds
+2021-12-28 23:39:47 INFO  Argument two,type <class 'str'>)
+2021-12-28 23:39:47 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:39:47 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:39:47 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:39:47 INFO  Argument more, iteration, <class 'str'>
+2021-12-28 23:39:47 INFO Start function
+2021-12-28 23:39:47 ERROR Incorrect input value, please enter only digits
+2021-12-28 23:39:47 INFO Time of function running 0.0 seconds
+2021-12-28 23:40:02 INFO  Argument 7,type <class 'int'>)
+2021-12-28 23:40:02 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:40:02 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:40:02 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:40:02 INFO  Argument more, iteration, <class 'str'>
+2021-12-28 23:40:02 INFO Start function
+2021-12-28 23:40:02 INFO Time of function running 0.617351770401001 seconds
+2021-12-28 23:43:41 INFO  Argument 7,type <class 'int'>)
+2021-12-28 23:43:41 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:43:41 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:43:41 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:43:41 INFO  Argument more, iteration, <class 'str'>
+2021-12-28 23:43:41 INFO Start function
+2021-12-28 23:44:38 INFO  Argument 7,type <class 'int'>)
+2021-12-28 23:44:38 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:44:38 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:44:38 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:44:38 INFO  Argument more, other, <class 'str'>
+2021-12-28 23:44:38 INFO Start function
+2021-12-28 23:44:38 INFO Type of function result None
+2021-12-28 23:44:38 INFO Time of function running 0.0 seconds
+2021-12-28 23:45:28 INFO  Argument 7,type <class 'int'>)
+2021-12-28 23:45:28 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:45:28 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:45:28 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:45:28 INFO  Argument more, iteration, <class 'str'>
+2021-12-28 23:45:28 INFO Start function
+2021-12-28 23:45:29 INFO Time of function running 0.6343040466308594 seconds
+2021-12-28 23:48:45 INFO  Argument 7,type <class 'int'>)
+2021-12-28 23:48:45 INFO  Argument 9,type <class 'int'>)
+2021-12-28 23:48:45 INFO  Argument 4,type <class 'int'>)
+2021-12-28 23:48:45 INFO  Argument action, minimal, <class 'str'>
+2021-12-28 23:48:45 INFO  Argument more, iteration, <class 'str'>
+2021-12-28 23:48:45 INFO Start function
+2021-12-28 23:48:46 INFO Time of function running 0.6661994457244873 seconds
